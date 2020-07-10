@@ -26,39 +26,4 @@
       <img src="https://user-images.githubusercontent.com/25087769/87176682-1f7ef480-c2e3-11ea-9b1d-076f2c8568b2.jpg" width="500">
      </td>
    </tr>
-   <tr>
-   <td colspan="2">
-          <h2> Nature Clan - Rest </h2>
-     <table>
-  <tr>
-    <td>
-      <img src="https://user-images.githubusercontent.com/25087769/87180370-1bee6c00-c2e9-11ea-9383-dccc349b79e1.jpg" width="250"/>
-     </td>
-    <td>
-    <td >
-      <img src="https://user-images.githubusercontent.com/25087769/87180371-1bee6c00-c2e9-11ea-8b15-6c4fd7d9af72.jpg"  height="250"/>
-     </td>
-    <td>
-    <td >
-      <img src="https://user-images.githubusercontent.com/25087769/87180373-1d1f9900-c2e9-11ea-89bc-d0f4445dfa14.jpg" width="250"/>
-     </td>
-    <td>      
-   </tr>
-  <tr>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/25087769/87180378-1db82f80-c2e9-11ea-937a-578b0006f5da.jpg" height="250"/>
-     </td>
-    <td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/25087769/87180362-198c1200-c2e9-11ea-818b-7847dd427f12.jpg"  height="250"/>
-     </td>
-    <td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/25087769/87180365-1abd3f00-c2e9-11ea-9718-a75affd0bbbc.jpg"  height="250"/>
-     </td>
-    <td>      
-   </tr>  
-</table>
-  </td>
-  </td>
 </table>
