@@ -2,7 +2,7 @@
   <tr>
     <td>
       <h1> Who I Am ? </h1>
-      <b>A software developer devoted to learning, valuing knowledge, but also hungry for knowledge.<b>
+      <b>A passionate developer who wants to be a pioneer at what he is doing.</b>
       <ul>
         <li>Software Developer - Free Software and Open Source Developer</li>
         <li>Nature and Animal Photographer at <a href="https://instagram.com/dogaklani" alt="Doğa Klanı">Doğa Klanı </a></li>
