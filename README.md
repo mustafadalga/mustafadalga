@@ -21,9 +21,6 @@
   [![email](https://user-images.githubusercontent.com/25087769/87174308-a4680f00-c2df-11ea-90b0-5fa1fa76d2f1.png)](mailto:mustafadalgaa@gmail.com)
  
 </p>
-      </td>   
-     <td>
-      <img src="https://user-images.githubusercontent.com/25087769/87176682-1f7ef480-c2e3-11ea-9b1d-076f2c8568b2.jpg" width="500">
-     </td>
+
    </tr>
 </table>
