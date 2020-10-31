@@ -14,6 +14,7 @@
   [![github](https://user-images.githubusercontent.com/25087769/87176037-2c4f1880-c2e2-11ea-8a13-41c90b711b9f.png)](http://mustafadalga.github.io) &nbsp;&nbsp;
   [![gitlab](https://user-images.githubusercontent.com/25087769/87174063-54894800-c2df-11ea-9620-b2fbf36c3e34.png)](https://gitlab.com/mustafadalga) &nbsp;&nbsp;
   [![codepen](https://user-images.githubusercontent.com/25087769/87174133-6cf96280-c2df-11ea-9134-09bacdfb3464.png)](https://codepen.io/mustafadalga) &nbsp;&nbsp;
+  ![youtube](https://user-images.githubusercontent.com/25087769/97784839-5fc7f280-1bb2-11eb-8b1f-c17fc54fb428.png) &nbsp;&nbsp;
   [![twitter](https://user-images.githubusercontent.com/25087769/87172407-de83e180-c2dc-11ea-9479-a894758266c3.png)](https://www.twitter.com/mustafadalgaa) &nbsp;&nbsp;
   [![email](https://user-images.githubusercontent.com/25087769/87174308-a4680f00-c2df-11ea-90b0-5fa1fa76d2f1.png)](mailto:mustafadalgaa@gmail.com)
  
