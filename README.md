@@ -30,7 +30,3 @@
 <img src="https://user-images.githubusercontent.com/25087769/87172407-de83e180-c2dc-11ea-9479-a894758266c3.png"/>
 </a>
 </p>
-
-<p align="center" > 
-  <img src="https://profile-counter.glitch.me/mustafadalga/count.svg"/>
-</p>
