@@ -6,6 +6,7 @@ I identify myself as a person who is hungry for knowledge and dedicated to learn
         <li>Software Developer - Free Software and Open Source Developer</li>
         <li>Nature and Animal Photographer at <a href="https://instagram.com/dogaklani" alt="Doğa Klanı">Doğa Klanı </a></li>
         <li>Book Buff <a href="https://goodreads.com/mustafadalga" alt="Good Reads">Good Reads</a></li>
+        <li><a href="https://medium.com/@mustafadalga">Blog Posts</a></li>
         <li>Cyber Security Enthusiast</li>
 </ul>  
 <h2> Communication </h2>
