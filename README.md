@@ -32,5 +32,8 @@ I identify myself as a person who is hungry for knowledge and dedicated to learn
 </a>   &nbsp;
 <a href="https://www.twitter.com/mustafadalgaa">
 <img src="https://user-images.githubusercontent.com/25087769/87172407-de83e180-c2dc-11ea-9479-a894758266c3.png"/>
+</a>   &nbsp;
+<a href="https://gist.github.com/mustafadalga">
+<img src="https://user-images.githubusercontent.com/25087769/87176037-2c4f1880-c2e2-11ea-8a13-41c90b711b9f.png"/>
 </a>
 </p>
