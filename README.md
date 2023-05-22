@@ -1,36 +1,54 @@
-<h3>A passionate developer who wants to be a pioneer at what he is doing.</h3>
-<p>
-I identify myself as a person who is hungry for knowledge and dedicated to learning.I continue to progress in life using research skills and accumulated experience, following a "be your own teacher" philosophy.My vision is to train myself to be a high quality software developer/engineer following the ethical code of hackers. 
-</p>
-<ul>
-        <li>Software Developer - Free Software and Open Source Developer</li>
-        <li>Nature and Animal Photographer at <a href="https://instagram.com/dogaklani" alt="Doğa Klanı">Doğa Klanı </a></li>
-        <li>Book Buff <a href="https://goodreads.com/mustafadalga" alt="Good Reads">Good Reads</a></li>
-        <li><a href="https://medium.com/@mustafadalga">Blog Posts</a></li>
-</ul>  
-<h2> Communication </h2>
- <p>
+## 👋 Hi there, I'm Mustafa
 
-<a href="https://www.linkedin.com/in/mustafadalga">
-<img src="https://user-images.githubusercontent.com/25087769/87172072-530a5080-c2dc-11ea-8e2c-8ee4dbf3394b.png"/>
-</a>  &nbsp;
-<a href="https://codepen.io/mustafadalga">
-<img src="https://user-images.githubusercontent.com/25087769/87174133-6cf96280-c2df-11ea-9134-09bacdfb3464.png"/>
-</a>   &nbsp;
+## 👨‍💻 About me
 
-<a href="https://www.youtube.com/channel/UCjbSpwL1nGHnAEHN2fbh7DQ">
-<img src="https://user-images.githubusercontent.com/25087769/97784839-5fc7f280-1bb2-11eb-8b1f-c17fc54fb428.png"/>
-</a>   &nbsp;
-<a href="http://mustafadalga.github.io">
-<img src="https://user-images.githubusercontent.com/25087769/87176037-2c4f1880-c2e2-11ea-8a13-41c90b711b9f.png"/>
-</a>   &nbsp;
-<a href="https://gitlab.com/mustafadalga">
-<img src="https://user-images.githubusercontent.com/25087769/87174063-54894800-c2df-11ea-9620-b2fbf36c3e34.png"/>
-</a>   &nbsp;
-<a href="https://www.twitter.com/mustafadalgaa">
-<img src="https://user-images.githubusercontent.com/25087769/87172407-de83e180-c2dc-11ea-9479-a894758266c3.png"/>
-</a>   &nbsp;
-<a href="https://gist.github.com/mustafadalga">
-<img src="https://user-images.githubusercontent.com/25087769/87176037-2c4f1880-c2e2-11ea-8a13-41c90b711b9f.png"/>
-</a>
-</p>
+I am a highly qualified software developer with over 6 years of experience in developing desktop and web applications using various technologies. My main programming language is JavaScript, and I am currently working as a Front-end developer. I am passionate about software development and constantly seek to improve my skills and knowledge through research and self-teaching. I share my projects on Github as open source to not only learn and grow, but also contribute to the development community.
+
+## What I do?
+
+### 📷 Nature and Animal Photographer
+When I'm not coding, you'll find me outdoors. I am a nature and animal photographer at [Doğa Klanı](l[ink-to-Nat](https://instagram.com/dogaklani)).
+
+### 📚 Book Buff
+I'm an avid reader and book enthusiast. You can see what I'm currently reading on [Good Reads]([your-Goodreads-link](https://goodreads.com/mustafadalga)).
+
+### 🖊️ Blogger
+I write about tech and life. Check out my [Blog]([your-blog-link](https://medium.com/@mustafadalga)).
+
+
+### 🛠 Skills
+`Vue.js` `React.js` `Javascript` `Typescript` `SCSS` `CSS3` `Vuex` `Webpack` `Vite.js` `Redux toolkit` `HTML5` `Jquery` `Bootstrap` `Materialize CSS` `Tailwind CSS` `Git` `Vitest`
+
+### 🔗 Connect with me
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_TO_LINKEDIN)](https://linkedin.com/in/mustafadalga/)
+[![Medium](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&link=LINK_TO_MEDIUM)](https://medium.com/@mustafadalga)
+[![Github Gists](https://img.shields.io/badge/-Github_Gists-000?style=flat-square&logo=Github&logoColor=white&link=LINK_TO_GITHUB_GISTS)](https://gist.github.com/mustafadalga)
+[![NPMJS](https://img.shields.io/badge/-NPMJS-CB3837?style=flat-square&logo=npm&logoColor=white&link=LINK_TO_NPMJS)](https://www.npmjs.com/~mustafadalga)
+[![Codepen](https://img.shields.io/badge/-Codepen-000?style=flat-square&logo=Codepen&logoColor=white&link=LINK_TO_CODEPEN)](https://codepen.io/mustafadalga)
+[![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat-square&logo=Stackoverflow&logoColor=white&link=LINK_TO_STACKOVERFLOW)](https://stackoverflow.com/users/10636297/mustafa)
+
+### 🌟 Highlight Projects
+*  **[Vite Plugin - React.js Remove Attributes](https://www.npmjs.com/package/react-remove-attr)**
+* **[Vite Plugin - Vue.js Remove Attributes](https://www.npmjs.com/package/remove-attr)**
+* **[Tactix - Real Time Two Player Intelligence Game](https://github.com/mustafadalga/tactix)**
+* **[Connect Four - Real Time Two Player Intelligence Game](https://github.com/mustafadalga/dortleme)**
+* **[Quiz Application](https://github.com/mustafadalga/quiz-app)**
+* **[Forex Exchange](https://github.com/mustafadalga/forex-exchange)**
+* **[Typing Game](https://github.com/mustafadalga/typing-game)**
+* **[Music Player](https://github.com/mustafadalga/music-player)**
+* **[Computer Lab Automation](https://github.com/mustafadalga/bilgisayar-lab-otomasyonu)**
+* **[Multi Level Puzzle Game](https://github.com/mustafadalga/puzzle)**
+* **[Multi Level Memory Game](https://github.com/mustafadalga/memory-game)**
+* **[Vue.js - Breakout Game](https://github.com/mustafadalga/breakout-game)**
+* **[Heybooster Landing Page](https://github.com/mustafadalga/heybooster-landing-page-2)**
+* **[Mailto Link Generator](https://github.com/mustafadalga/mailto-link-generator)**
+* **[Vue 3 Number Counter](https://www.npmjs.com/package/vue3-number-counter)**
+* **[Personal Website Script](https://github.com/mustafadalga/PHP-Kisisel-Website-Scripti)**
+* **[Powershell - Turkish Resource](https://github.com/mustafadalga/powershell)**
+* **[Puzzle - C#](https://github.com/mustafadalga/puzzle-game)**
+* **[Website Blocker](https://github.com/mustafadalga/website-blocker)**
+* **[Instagram Bot](https://github.com/mustafadalga/Instagram-Bot)**
+* **[File Extension Converter](https://github.com/mustafadalga/file-extension-converter)**
+* **[Project File Saver](https://github.com/mustafadalga/project-file-saver)**
+* **[Adblock Detection](https://github.com/mustafadalga/adblock-detection)**
+
