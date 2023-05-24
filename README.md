@@ -53,3 +53,15 @@ I write about tech and life. Check out my [Blog]([your-blog-link](https://medium
 * **[Project File Saver](https://github.com/mustafadalga/project-file-saver)**
 * **[Adblock Detection](https://github.com/mustafadalga/adblock-detection)**
 
+<br><br><br>
+<table align="center" border="0">
+  <tr>
+  <td align="center">
+      <img src ="https://github-readme-streak-stats.herokuapp.com?user=mustafadalga&theme=darcula&hide_border=true&background=FFFFFF00">
+    </td>
+    <td align="center">
+      <img height="360" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafadalga&hide_progress=true&layout=pie&theme=darcula">
+    </td>
+  </tr>
+</table>
+
