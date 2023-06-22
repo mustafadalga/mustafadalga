@@ -28,6 +28,7 @@ I write about tech and life. Check out my [Blog]([your-blog-link](https://medium
 [![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat-square&logo=Stackoverflow&logoColor=white&link=LINK_TO_STACKOVERFLOW)](https://stackoverflow.com/users/10636297/mustafa)
 
 ### 🌟 Highlight Projects
+* **[Fly High](https://github.com/mustafadalga/fly-high)**
 *  **[Vite Plugin - React.js Remove Attributes](https://www.npmjs.com/package/react-remove-attr)**
 * **[Vite Plugin - Vue.js Remove Attributes](https://www.npmjs.com/package/remove-attr)**
 * **[Tactix - Real Time Two Player Intelligence Game](https://github.com/mustafadalga/tactix)**
