@@ -7,13 +7,13 @@ I am a highly qualified software developer with over 6 years of experience in de
 ## What I do?
 
 ### 📷 Nature and Animal Photographer
-When I'm not coding, you'll find me outdoors. I am a nature and animal photographer at [Doğa Klanı](l[ink-to-Nat](https://instagram.com/dogaklani)).
+When I'm not coding, you'll find me outdoors. I am a nature and animal photographer at [Doğa Klanı](https://instagram.com/dogaklani).
 
 ### 📚 Book Buff
-I'm an avid reader and book enthusiast. You can see what I'm currently reading on [Good Reads]([your-Goodreads-link](https://goodreads.com/mustafadalga)).
+I'm an avid reader and book enthusiast. You can see what I'm currently reading on [Good Reads](https://goodreads.com/mustafadalga).
 
 ### 🖊️ Blogger
-I write about tech and life. Check out my [Blog]([your-blog-link](https://medium.com/@mustafadalga)).
+I write about tech and life. Check out my [Blog](https://medium.com/@mustafadalga).
 
 
 ### 🛠 Skills
