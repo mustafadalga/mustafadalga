@@ -53,16 +53,3 @@ I write about tech and life. Check out my [Blog](https://medium.com/@mustafadalg
 * **[File Extension Converter](https://github.com/mustafadalga/file-extension-converter)**
 * **[Project File Saver](https://github.com/mustafadalga/project-file-saver)**
 * **[Adblock Detection](https://github.com/mustafadalga/adblock-detection)**
-
-<br><br><br>
-<table align="center" border="0">
-  <tr>
-  <td align="center">
-<img src ="https://github-readme-streak-stats.herokuapp.com?user=mustafadalga&theme=vue&hide_border=true">
-    </td>
-    <td align="center">
-<img height="360" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafadalga&&theme=vue&layout=pie">
-    </td>
-  </tr>
-</table>
-
