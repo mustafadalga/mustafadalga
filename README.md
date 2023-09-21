@@ -28,7 +28,9 @@ I write about tech and life. Check out my [Blog](https://medium.com/@mustafadalg
 [![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat-square&logo=Stackoverflow&logoColor=white&link=LINK_TO_STACKOVERFLOW)](https://stackoverflow.com/users/10636297/mustafa)
 
 ### 🌟 Highlight Projects
-* **[Fly High](https://github.com/mustafadalga/fly-high)**
+
+* **[Skyscraper Mind Game](https://github.com/mustafadalga/skyscraper)**
+* **[CV Terminal Builder](https://github.com/mustafadalga/cv-terminal-builder)**
 *  **[Vite Plugin - React.js Remove Attributes](https://www.npmjs.com/package/react-remove-attr)**
 * **[Vite Plugin - Vue.js Remove Attributes](https://www.npmjs.com/package/remove-attr)**
 * **[Tactix - Real Time Two Player Intelligence Game](https://github.com/mustafadalga/tactix)**
@@ -39,6 +41,7 @@ I write about tech and life. Check out my [Blog](https://medium.com/@mustafadalg
 * **[Typing Game](https://github.com/mustafadalga/typing-game)**
 * **[Music Player](https://github.com/mustafadalga/music-player)**
 * **[Computer Lab Automation](https://github.com/mustafadalga/bilgisayar-lab-otomasyonu)**
+* **[Fly High](https://github.com/mustafadalga/fly-high)**
 * **[Multi Level Puzzle Game](https://github.com/mustafadalga/puzzle)**
 * **[Multi Level Memory Game](https://github.com/mustafadalga/memory-game)**
 * **[Vue.js - Breakout Game](https://github.com/mustafadalga/breakout-game)**
