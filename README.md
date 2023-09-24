@@ -17,7 +17,7 @@ I write about tech and life. Check out my [Blog](https://medium.com/@mustafadalg
 
 
 ### 🛠 Skills
-`Vue.js` `React.js` `Javascript` `Typescript` `SCSS` `CSS3` `Vuex` `Webpack` `Vite.js` `Redux toolkit` `HTML5` `Jquery` `Bootstrap` `Materialize CSS` `Tailwind CSS` `Git` `Vitest`
+`Vue.js` `React.js`, `Next.js`, `Javascript` `Typescript` `SCSS` `CSS3` `Vuex` `Webpack` `Vite.js` `Redux toolkit` `HTML5` `Jquery` `Bootstrap` `Materialize CSS` `Tailwind CSS` `Git` `Vitest`
 
 ### 🔗 Connect with me
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_TO_LINKEDIN)](https://linkedin.com/in/mustafadalga/)
@@ -31,6 +31,7 @@ I write about tech and life. Check out my [Blog](https://medium.com/@mustafadalg
 
 * **[Skyscraper Mind Game](https://github.com/mustafadalga/skyscraper)**
 * **[CV Terminal Builder](https://github.com/mustafadalga/cv-terminal-builder)**
+* **[Educational GameMagic Pyramid Mind Game](https://github.com/mustafadalga/magic-pyramid)**
 *  **[Vite Plugin - React.js Remove Attributes](https://www.npmjs.com/package/react-remove-attr)**
 * **[Vite Plugin - Vue.js Remove Attributes](https://www.npmjs.com/package/remove-attr)**
 * **[Tactix - Real Time Two Player Intelligence Game](https://github.com/mustafadalga/tactix)**
