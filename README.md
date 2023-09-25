@@ -13,7 +13,7 @@ When I'm not coding, you'll find me outdoors. I am a nature and animal photograp
 I'm an avid reader and book enthusiast. You can see what I'm currently reading on [Good Reads](https://goodreads.com/mustafadalga).
 
 ### 🖊️ Blogger
-I write about tech and life. Check out my [Blog](https://medium.com/@mustafadalga).
+I write about tech and life. Check out my [Blog](https://sft.hashnode.dev/).
 
 
 ### 🛠 Skills
@@ -32,7 +32,8 @@ I write about tech and life. Check out my [Blog](https://medium.com/@mustafadalg
 * **[Skyscraper Mind Game](https://github.com/mustafadalga/skyscraper)**
 * **[CV Terminal Builder](https://github.com/mustafadalga/cv-terminal-builder)**
 * **[Educational GameMagic Pyramid Mind Game](https://github.com/mustafadalga/magic-pyramid)**
-*  **[Vite Plugin - React.js Remove Attributes](https://www.npmjs.com/package/react-remove-attr)**
+* **[Educational ABC Logic Puzzle Mind Game](https://github.com/mustafadalga/abc-logic-puzzle)**
+* **[Vite Plugin - React.js Remove Attributes](https://www.npmjs.com/package/react-remove-attr)**
 * **[Vite Plugin - Vue.js Remove Attributes](https://www.npmjs.com/package/remove-attr)**
 * **[Tactix - Real Time Two Player Intelligence Game](https://github.com/mustafadalga/tactix)**
 * **[Connect Four - Real Time Two Player Intelligence Game](https://github.com/mustafadalga/dortleme)**
