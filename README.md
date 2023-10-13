@@ -29,6 +29,7 @@ I write about tech and life. Check out my [Blog](https://sft.hashnode.dev/).
 
 ### 🌟 Highlight Projects
 
+* **[Realtime 2-Player Mangala Mind Game](https://github.com/mustafadalga/mangala)**
 * **[Skyscraper Mind Game](https://github.com/mustafadalga/skyscraper)**
 * **[CV Terminal Builder](https://github.com/mustafadalga/cv-terminal-builder)**
 * **[Educational GameMagic Pyramid Mind Game](https://github.com/mustafadalga/magic-pyramid)**
