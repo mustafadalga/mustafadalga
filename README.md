@@ -2,18 +2,9 @@
 
 ## 👨‍💻 About me
 
-I am a highly qualified software developer with over 6 years of experience in developing desktop and web applications using various technologies. My main programming language is JavaScript, and I am currently working as a Front-end developer. I am passionate about software development and constantly seek to improve my skills and knowledge through research and self-teaching. I share my projects on Github as open source to not only learn and grow, but also contribute to the development community.
+I am a highly qualified software developer with experience in developing desktop and web applications using various technologies. My main programming language is JavaScript, and I am currently working as a Front-end developer. I am passionate about software development and constantly seek to improve my skills and knowledge through research and self-teaching. I share my projects on GitHub as open source to not only learn and grow, but also contribute to the development community.
 
-## What I do?
-
-### 📷 Nature and Animal Photographer
-When I'm not coding, you'll find me outdoors. I am a nature and animal photographer at [Doğa Klanı](https://instagram.com/dogaklani).
-
-### 📚 Book Buff
-I'm an avid reader and book enthusiast. You can see what I'm currently reading on [Good Reads](https://goodreads.com/mustafadalga).
-
-### 🖊️ Blogger
-I write about tech and life. Check out my [Blog](https://sft.hashnode.dev/).
+I am a [nature and animal photographer](https://instagram.com/dogaklani) and I also [write](https://sft.hashnode.dev/).
 
 
 ### 🛠 Skills
@@ -21,11 +12,8 @@ I write about tech and life. Check out my [Blog](https://sft.hashnode.dev/).
 
 ### 🔗 Connect with me
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_TO_LINKEDIN)](https://linkedin.com/in/mustafadalga/)
-[![Medium](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&link=LINK_TO_MEDIUM)](https://medium.com/@mustafadalga)
 [![Github Gists](https://img.shields.io/badge/-Github_Gists-000?style=flat-square&logo=Github&logoColor=white&link=LINK_TO_GITHUB_GISTS)](https://gist.github.com/mustafadalga)
 [![NPMJS](https://img.shields.io/badge/-NPMJS-CB3837?style=flat-square&logo=npm&logoColor=white&link=LINK_TO_NPMJS)](https://www.npmjs.com/~mustafadalga)
-[![Codepen](https://img.shields.io/badge/-Codepen-000?style=flat-square&logo=Codepen&logoColor=white&link=LINK_TO_CODEPEN)](https://codepen.io/mustafadalga)
-[![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat-square&logo=Stackoverflow&logoColor=white&link=LINK_TO_STACKOVERFLOW)](https://stackoverflow.com/users/10636297/mustafa)
 
 ### 🌟 Highlight Projects
 
