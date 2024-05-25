@@ -5,11 +5,6 @@ I am a [nature and animal photographer](https://instagram.com/dogaklani) and I a
 
 I am using `Vue.js` `React.js`, `Next.js`, `Javascript` `Typescript` `SCSS` `CSS3` `Vuex` `Redux toolkit` `Zustand` `Tailwind CSS` `Vitest`, `Testing Library` and `Vue Test Utils`
 
-### 🔗 Connect with me
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_TO_LINKEDIN)](https://linkedin.com/in/mustafadalga/)
-[![Github Gists](https://img.shields.io/badge/-Github_Gists-000?style=flat-square&logo=Github&logoColor=white&link=LINK_TO_GITHUB_GISTS)](https://gist.github.com/mustafadalga)
-[![NPMJS](https://img.shields.io/badge/-NPMJS-CB3837?style=flat-square&logo=npm&logoColor=white&link=LINK_TO_NPMJS)](https://www.npmjs.com/~mustafadalga)
-
 ### 🌟 Highlight Projects
 
 * **[Realtime 2-Player Mangala Mind Game](https://github.com/mustafadalga/mangala)**
