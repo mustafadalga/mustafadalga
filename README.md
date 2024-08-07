@@ -7,7 +7,8 @@ I am using `Vue.js` `React.js`, `Next.js`, `Javascript` `Typescript` `SCSS` `CSS
 
 ### 🌟 Highlight Projects
 
-* **[Realtime 2-Player Mangala Mind Game](https://github.com/mustafadalga/mangala)**
+* **[Realtime 2 Player Othello Mind Game](https://github.com/mustafadalga/othello)**
+* **[Realtime 2 Player Mangala Mind Game](https://github.com/mustafadalga/mangala)**
 * **[Skyscraper Mind Game](https://github.com/mustafadalga/skyscraper)**
 * **[CV Terminal Builder](https://github.com/mustafadalga/cv-terminal-builder)**
 * **[Educational GameMagic Pyramid Mind Game](https://github.com/mustafadalga/magic-pyramid)**
@@ -31,9 +32,7 @@ I am using `Vue.js` `React.js`, `Next.js`, `Javascript` `Typescript` `SCSS` `CSS
 * **[Vue 3 Number Counter](https://www.npmjs.com/package/vue3-number-counter)**
 * **[Personal Website Script](https://github.com/mustafadalga/PHP-Kisisel-Website-Scripti)**
 * **[Powershell - Turkish Resource](https://github.com/mustafadalga/powershell)**
-* **[Puzzle - C#](https://github.com/mustafadalga/puzzle-game)**
 * **[Website Blocker](https://github.com/mustafadalga/website-blocker)**
 * **[Instagram Bot](https://github.com/mustafadalga/Instagram-Bot)**
 * **[File Extension Converter](https://github.com/mustafadalga/file-extension-converter)**
-* **[Project File Saver](https://github.com/mustafadalga/project-file-saver)**
 * **[Adblock Detection](https://github.com/mustafadalga/adblock-detection)**
