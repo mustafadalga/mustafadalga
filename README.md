@@ -5,6 +5,11 @@ I am a [nature and animal photographer](https://instagram.com/dogaklani) and I a
 
 I am using `Vue.js` `React.js`, `Next.js`, `Javascript` `Typescript` `SCSS` `CSS3` `Vuex` `Redux toolkit` `Zustand` `Tailwind CSS` `Vitest`, `Testing Library` and `Vue Test Utils`
 
+
+### Support My Work
+If you like my work, you can [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mustafadalga)
+
+
 ### 🌟 Highlight Projects
 
 * **[Realtime 2 Player Othello Mind Game](https://github.com/mustafadalga/othello)**
