@@ -1,6 +1,6 @@
 I am a highly qualified software developer with experience in developing web applications using various technologies. My main programming language is JavaScript/Typescript, and I am currently working as a Front-end developer. I am passionate about software development and constantly seek to improve my skills and knowledge through research and self-teaching. I share my projects on GitHub as open source to not only learn and grow, but also contribute to the development community.
 
-I am a [nature and animal photographer](https://instagram.com/dogaklani) and I also [write](https://sft.hashnode.dev/).
+I was a [nature and animal photographer](https://instagram.com/dogaklani) and I also [write](https://sft.hashnode.dev/).
 
 
 I am using `Vue.js` `React.js`, `Next.js`, `Javascript` `Typescript` `SCSS` `CSS3` `Vuex` `Redux toolkit` `Zustand` `Tailwind CSS` `Vitest`, `Testing Library` and `Vue Test Utils`
